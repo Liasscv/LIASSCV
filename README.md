@@ -12,7 +12,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liasscv&hide=prs,issues&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liasscv&layout=compact&theme=tokyonight" width="40%" />
 </div>
 
