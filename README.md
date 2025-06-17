@@ -1,10 +1,8 @@
 <h1 align="center">🚀 Bienvenue sur mon profil GitHub !</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-%20Bienvenue&#x20;!-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Bienvenue" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=800&center=true&vCenter=true&multiline=true&width=750&height=70&lines=%C3%89tudiant+passionn%C3%A9+d'informatique+et+de+cybers%C3%A9curit%C3%A9+!;Bienvenue+sur+le+profil+de+Liasscv." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=50&lines=Étudiant+passionné+d'informatique;Cybersécurité+%7C+Big+Data+%7C+IntelligenceArtificelle" alt="Typing SVG" />
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Liasscv&hide=prs,issues&show_icons=true&theme=tokyonight" width="48%" />
@@ -60,7 +58,6 @@ Je développe sur mon temps libre des projets variés allant du web au hardware,
   <tr>
     <td align="center"><img src="introduction-to-cybersecurity.png" width="90px" alt="Cisco Introduction to Cybersecurity"><br><b>Cisco Intro to Cybersecurity</b></td>
     <td align="center"><img src="ndg2_unhatched.png" width="90px" alt="NDG Linux Unhatched"><br><b>NDG Linux Unhatched</b></td>
-    <td align="center"><img src="ndg_linux_essentials.png" width="90px" alt="NDG Linux Essentials"><br><b>NDG Linux Essentials</b></td>
   </tr>
 </table>
 
