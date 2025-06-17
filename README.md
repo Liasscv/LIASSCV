@@ -1,6 +1,13 @@
 <h1 align="center">🚀 Bienvenue sur mon profil GitHub !</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=50&lines=Étudiant+passionné+d'informatique;Cybersécurité+%7C+Big+Data+%7C+IntelligenceArtificelle" alt="Typing SVG" />
+  <svg width="380" height="70" viewBox="0 0 380 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="380" height="70" rx="15" fill="#23272e"/>
+    <text x="25" y="38" fill="#37D6FF" font-size="24" font-family="Fira Code, monospace" font-weight="bold">Big Data</text>
+    <text x="145" y="45" fill="#FF3C7E" font-size="16" font-family="Fira Code, monospace">⚡</text>
+    <text x="175" y="38" fill="#FFD700" font-size="24" font-family="Fira Code, monospace" font-weight="bold">IA</text>
+    <text x="225" y="38" fill="#A3FF8B" font-size="18" font-family="Fira Code, monospace">🚀</text>
+    <text x="255" y="47" fill="#FFFFFF" font-size="14" font-family="Fira Code, monospace">Innovation</text>
+  </svg>
 </p>
 
 
