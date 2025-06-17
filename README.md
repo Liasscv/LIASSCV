@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Bienvenue sur mon profil GitHub !</h1>
+<h1 align="center"> Bienvenue sur mon profil GitHub !</h1>
 <p align="center">
   <svg width="380" height="70" viewBox="0 0 380 70" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="380" height="70" rx="15" fill="#23272e"/>
