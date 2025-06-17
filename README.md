@@ -20,7 +20,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Étudiant en deuxième année de BTS CIEL option Informatique et réseaux, passionné d’**informatique**, **d’intelligence artificielle** et **Big Data**.
+Étudiant en deuxième année de BTS CIEL option Informatique et réseaux, passionné d’informatique, d’intelligence artificielle et Big Data.
 Je développe sur mon temps libre des projets variés allant du web au hardware, tout en me formant aux nouvelles techs.
 
 - 📅 **Année** : 2ème année - BTS CIEL
